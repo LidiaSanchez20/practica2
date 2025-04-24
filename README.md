@@ -1,5 +1,5 @@
-#link de github:        https://github.com/LidiaSanchez20/practica2
 # ☕ Coffee Time
+#link de github:        https://github.com/LidiaSanchez20/practica2
 
 **Coffee Time** es una aplicación de escritorio desarrollada en Python con Tkinter, diseñada para gestionar pedidos en una cafetería.
 
