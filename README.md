@@ -32,4 +32,6 @@
 3. Abre una terminal o consola de comandos.
 4. Navega hasta la carpeta del proyecto:
 ```bash
-cd practica2
+cd codigo_fuente
+python cafeteria_fin_lid.py
+
