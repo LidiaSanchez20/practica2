@@ -35,3 +35,7 @@
 cd codigo_fuente
 python cafeteria_fin_lid.py
 
+## Lidia Gizem Sánchez Montiel
+Benemérita Universidad Autónoma de Puebla
+Materia: Programación Avanzada
+Abril 2025
