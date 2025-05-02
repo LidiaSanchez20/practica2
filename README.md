@@ -25,6 +25,9 @@
 
 ---
 
+## Archivo autoejecutable:
+https://drive.google.com/file/d/1-DAAimTsKahF1ZsCYGDQBA6FuULiKuU3/view?usp=sharing
+
 ## 🚀 Cómo ejecutar el proyecto
 
 1. Asegúrate de tener Python 3 instalado en tu equipo.
